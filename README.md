@@ -12,6 +12,10 @@
 
 Для создания сертификата для сайта запустите create_certificate_for_domain.sh
 
+
+
+
+
 Доработки взяты из stackoverflow.com:
 
 https://stackoverflow.com/questions/10175812/how-to-create-a-self-signed-certificate-with-openssl
